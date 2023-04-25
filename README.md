@@ -1,4 +1,4 @@
-### Use Guide
+# Use Guide
 
 First off, clone the repository and then `cd server` and `yarn`
 Then, open new terminal `cd client` and `yarn`
